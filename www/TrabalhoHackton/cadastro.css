@@ -1,0 +1,43 @@
+.inputForm{
+    width: 70%;
+    margin-left: 40px;
+}
+.tituloForm{
+    font-size: 35pt;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 50px;
+    color:  rgb rgb(47, 174, 216);
+}
+.botoes{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.formulario{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow:  0px 0px 10px black;
+    height: 600px;
+    width: 350px;
+    margin-top: 120px; 
+}
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.nm{
+    margin-left: 40px;
+    font-size: 16pt;
+    font-weight: 500;
+    margin-top: 30px;
+}
+.body{
+    background-color: rgb(47,174,216);
+}
+.span{
+    color: red;
+    margin-left: 40px;
+    visibility: hidden;
+}
